@@ -1,0 +1,42 @@
+.title {
+    color: #ff6eec;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Papyrus", "Helvetica", sans-serif;
+}
+
+.description {
+    color: #e69adc;
+    font-style: italic;
+    text-align: center;
+    font-family: "Arial", "Verbana", serif;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.sub {
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+.ingredients {
+    color: #4d97eb;
+    font-weight:bold;
+}
+
+
+.unordered-list {
+    color: #a4eb4d;
+}
+
+.steps {
+    color: #eb4d97;
+}
+    
+.ordered-list {
+    color: #ed98e7;
+}
